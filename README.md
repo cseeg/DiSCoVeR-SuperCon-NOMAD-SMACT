@@ -5,3 +5,72 @@
 
 Below is a flowchart that depicts the workflow:
 ![flowchart](https://i.imgur.com/7Y6ifJg.png "flowchart")
+
+## Citations
+@Article{D1DD00028D,
+author ="Baird, Sterling G. and Diep, Tran Q. and Sparks, Taylor D.",
+title  ="DiSCoVeR: a materials discovery screening tool for high performance{,} unique chemical compositions",
+journal  ="Digital Discovery",
+year  ="2022",
+volume  ="1",
+issue  ="3",
+pages  ="226-240",
+publisher  ="RSC",
+doi  ="10.1039/D1DD00028D",
+url  ="http://dx.doi.org/10.1039/D1DD00028D"
+
+@Article{Stanev_2018,
+	doi = {10.1038/s41524-018-0085-8},
+	url = {https://doi.org/10.1038%2Fs41524-018-0085-8},
+	year = 2018,
+	month = {jun},
+	publisher = {Springer Science and Business Media {LLC}
+},
+	volume = {4},
+	number = {1},
+	author = {Valentin Stanev and Corey Oses and A. Gilad Kusne and Efrain Rodriguez and Johnpierre Paglione and Stefano Curtarolo and Ichiro Takeuchi},
+	title = {Machine learning modeling of superconducting critical temperature},
+	journal = {npj Computational Materials}
+}
+
+@Article{D1DD00028D,
+author ="Baird, Sterling G. and Diep, Tran Q. and Sparks, Taylor D.",
+title  ="DiSCoVeR: a materials discovery screening tool for high performance{,} unique chemical compositions",
+journal  ="Digital Discovery",
+year  ="2022",
+volume  ="1",
+issue  ="3",
+pages  ="226-240",
+publisher  ="RSC",
+doi  ="10.1039/D1DD00028D",
+url  ="http://dx.doi.org/10.1039/D1DD00028D"
+
+@Article{Draxl_2019,
+	doi = {10.1088/2515-7639/ab13bb},
+	url = {https://doi.org/10.1088/2515-7639/ab13bb},
+	year = 2019,
+	month = {may},
+	publisher = {{IOP} Publishing},
+	volume = {2},
+	number = {3},
+	pages = {036001},
+	author = {Claudia Draxl and Matthias Scheffler},
+	title = {The {NOMAD} laboratory: from data sharing to artificial intelligence},
+	journal = {Journal of Physics: Materials}
+
+@Article{xie2021crystal,
+  title={Crystal diffusion variational autoencoder for periodic material generation},
+  author={Xie, Tian and Fu, Xiang and Ganea, Octavian-Eugen and Barzilay, Regina and Jaakkola, Tommi},
+  journal={arXiv preprint arXiv:2110.06197},
+  year={2021}
+}
+
+@Article{davies2019smact,
+  title={SMACT: Semiconducting materials by analogy and chemical theory},
+  author={Davies, Daniel W and Butler, Keith T and Jackson, Adam J and Skelton, Jonathan M and Morita, Kazuki and Walsh, Aron},
+  journal={Journal of Open Source Software},
+  volume={4},
+  number={38},
+  pages={1361},
+  year={2019}
+}
