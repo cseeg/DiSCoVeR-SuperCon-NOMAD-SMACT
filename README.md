@@ -10,7 +10,9 @@ Below is a flowchart that depicts the workflow:
 ![flowchart](https://i.imgur.com/7Y6ifJg.png "flowchart")
 
 ## Citations
-```
+If you find this work useful, please consider citing the following works.
+
+```bib
 @article{baird_discover_2022,
 	title = {{DiSCoVeR}: a materials discovery screening tool for high performance, unique chemical compositions},
 	volume = {1},
@@ -28,7 +30,7 @@ Below is a flowchart that depicts the workflow:
 }
 ```
 
-```
+```bib
 @article{stanev_machine_2018,
 	title = {Machine learning modeling of superconducting critical temperature},
 	volume = {4},
@@ -46,7 +48,7 @@ Below is a flowchart that depicts the workflow:
 }
 ```
 
-```
+```bib
 @article{Baird2022,
 	author = "Sterling G. Baird",
 	title = "{NOMAD Chemical Formulas and Calculation IDs}",
@@ -55,7 +57,7 @@ Below is a flowchart that depicts the workflow:
 	url = "https://figshare.com/articles/dataset/NOMAD_Chemical_Formulas_and_Calculation_IDs/19319783", doi = "10.6084/m9.figshare.19319783.v3" }
 ```
 
-```
+```bib
 @article{draxl_nomad_2019,
 	title = {The {NOMAD} laboratory: from data sharing to artificial intelligence},
 	volume = {2},
@@ -74,7 +76,7 @@ Below is a flowchart that depicts the workflow:
 }
 ```
 
-```
+```bib
 @article{xie2021crystal,
 	title={Crystal diffusion variational autoencoder for periodic material generation},
 	author={Xie, Tian and Fu, Xiang and Ganea, Octavian-Eugen and Barzilay, Regina and Jaakkola, Tommi},
@@ -84,7 +86,7 @@ Below is a flowchart that depicts the workflow:
 }
 ```
 
-```
+```bib
 @article{davies_smact_2019,
 	title = {{SMACT}: {Semiconducting} {Materials} by {Analogy} and {Chemical} {Theory}},
 	volume = {4},
