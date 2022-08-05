@@ -19,18 +19,15 @@ publisher  ="RSC",
 doi  ="10.1039/D1DD00028D",
 url  ="http://dx.doi.org/10.1039/D1DD00028D"
 
-@Article{Stanev_2018,
-	doi = {10.1038/s41524-018-0085-8},
-	url = {https://doi.org/10.1038%2Fs41524-018-0085-8},
-	year = 2018,
-	month = {jun},
-	publisher = {Springer Science and Business Media {LLC}
-},
-	volume = {4},
-	number = {1},
-	author = {Valentin Stanev and Corey Oses and A. Gilad Kusne and Efrain Rodriguez and Johnpierre Paglione and Stefano Curtarolo and Ichiro Takeuchi},
-	title = {Machine learning modeling of superconducting critical temperature},
-	journal = {npj Computational Materials}
+@Article{stanev2018machine,
+  title={Machine learning modeling of superconducting critical temperature},
+  author={Stanev, Valentin and Oses, Corey and Kusne, A Gilad and Rodriguez, Efrain and Paglione, Johnpierre and Curtarolo, Stefano and Takeuchi, Ichiro},
+  journal={npj Computational Materials},
+  volume={4},
+  number={1},
+  pages={1--14},
+  year={2018},
+  publisher={Nature Publishing Group}
 }
 
 @Article{D1DD00028D,
