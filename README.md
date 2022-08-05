@@ -10,6 +10,7 @@ Below is a flowchart that depicts the workflow:
 ![flowchart](https://i.imgur.com/7Y6ifJg.png "flowchart")
 
 ## Citations
+```
 @article{baird_discover_2022,
 	title = {{DiSCoVeR}: a materials discovery screening tool for high performance, unique chemical compositions},
 	volume = {1},
@@ -25,7 +26,9 @@ Below is a flowchart that depicts the workflow:
 	year = {2022},
 	pages = {226--240},
 }
+```
 
+```
 @article{stanev_machine_2018,
 	title = {Machine learning modeling of superconducting critical temperature},
 	volume = {4},
@@ -41,9 +44,18 @@ Below is a flowchart that depicts the workflow:
 	year = {2018},
 	pages = {29}
 }
+```
 
-@article{Baird2022, author = "Sterling G. Baird", title = "{NOMAD Chemical Formulas and Calculation IDs}", year = "2022", month = "3", url = "https://figshare.com/articles/dataset/NOMAD_Chemical_Formulas_and_Calculation_IDs/19319783", doi = "10.6084/m9.figshare.19319783.v3" } 
+```
+@article{Baird2022,
+	author = "Sterling G. Baird",
+	title = "{NOMAD Chemical Formulas and Calculation IDs}",
+	year = "2022",
+	month = "3",
+	url = "https://figshare.com/articles/dataset/NOMAD_Chemical_Formulas_and_Calculation_IDs/19319783", doi = "10.6084/m9.figshare.19319783.v3" }
+```
 
+```
 @article{draxl_nomad_2019,
 	title = {The {NOMAD} laboratory: from data sharing to artificial intelligence},
 	volume = {2},
@@ -60,15 +72,19 @@ Below is a flowchart that depicts the workflow:
 	year = {2019},
 	pages = {036001}
 }
+```
 
+```
 @article{xie2021crystal,
-  title={Crystal diffusion variational autoencoder for periodic material generation},
-  author={Xie, Tian and Fu, Xiang and Ganea, Octavian-Eugen and Barzilay, Regina and Jaakkola, Tommi},
-  journal={arXiv preprint arXiv:2110.06197},
-  year={2021}
-  url = {http://arxiv.org/abs/2110.06197},
+	title={Crystal diffusion variational autoencoder for periodic material generation},
+	author={Xie, Tian and Fu, Xiang and Ganea, Octavian-Eugen and Barzilay, Regina and Jaakkola, Tommi},
+	journal={arXiv preprint arXiv:2110.06197},
+	year={2021}
+	url = {http://arxiv.org/abs/2110.06197},
 }
+```
 
+```
 @article{davies_smact_2019,
 	title = {{SMACT}: {Semiconducting} {Materials} by {Analogy} and {Chemical} {Theory}},
 	volume = {4},
@@ -85,3 +101,4 @@ Below is a flowchart that depicts the workflow:
 	year = {2019},
 	pages = {1361}
 }
+```
