@@ -50,11 +50,14 @@ If you find this work useful, please consider citing the following works.
 
 ```bib
 @article{Baird2022,
-	author = "Sterling G. Baird",
-	title = "{NOMAD Chemical Formulas and Calculation IDs}",
-	year = "2022",
-	month = "3",
-	url = "https://figshare.com/articles/dataset/NOMAD_Chemical_Formulas_and_Calculation_IDs/19319783", doi = "10.6084/m9.figshare.19319783.v3" }
+	author = {Sterling G. Baird},
+	title = {NOMAD Chemical Formulas and Calculation IDs},
+	year = {2022},
+	month = {3},
+	url = {https://figshare.com/articles/dataset/NOMAD_Chemical_Formulas_and_Calculation_IDs/19319783},
+	doi = {10.6084/m9.figshare.19319783.v3}
+}
+	
 ```
 
 ```bib
