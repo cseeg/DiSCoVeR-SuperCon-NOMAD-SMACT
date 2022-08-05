@@ -10,6 +10,9 @@ Below is a flowchart that depicts the workflow:
 ![flowchart](https://i.imgur.com/7Y6ifJg.png "flowchart")
 
 ## Citations
+If you find this work useful, please consider citing the following works.
+ 
+```bib
 @Article{D1DD00028D,
 author ="Baird, Sterling G. and Diep, Tran Q. and Sparks, Taylor D.",
 title  ="DiSCoVeR: a materials discovery screening tool for high performance{,} unique chemical compositions",
@@ -21,6 +24,7 @@ pages  ="226-240",
 publisher  ="RSC",
 doi  ="10.1039/D1DD00028D",
 url  ="http://dx.doi.org/10.1039/D1DD00028D"
+}
 
 @Article{stanev2018machine,
   title={Machine learning modeling of superconducting critical temperature},
@@ -32,18 +36,6 @@ url  ="http://dx.doi.org/10.1039/D1DD00028D"
   year={2018},
   publisher={Nature Publishing Group}
 }
-
-@Article{D1DD00028D,
-author ="Baird, Sterling G. and Diep, Tran Q. and Sparks, Taylor D.",
-title  ="DiSCoVeR: a materials discovery screening tool for high performance{,} unique chemical compositions",
-journal  ="Digital Discovery",
-year  ="2022",
-volume  ="1",
-issue  ="3",
-pages  ="226-240",
-publisher  ="RSC",
-doi  ="10.1039/D1DD00028D",
-url  ="http://dx.doi.org/10.1039/D1DD00028D"
 
 @Article{Draxl_2019,
 	doi = {10.1088/2515-7639/ab13bb},
@@ -57,6 +49,7 @@ url  ="http://dx.doi.org/10.1039/D1DD00028D"
 	author = {Claudia Draxl and Matthias Scheffler},
 	title = {The {NOMAD} laboratory: from data sharing to artificial intelligence},
 	journal = {Journal of Physics: Materials}
+}
 
 @Article{xie2021crystal,
   title={Crystal diffusion variational autoencoder for periodic material generation},
@@ -74,3 +67,4 @@ url  ="http://dx.doi.org/10.1039/D1DD00028D"
   pages={1361},
   year={2019}
 }
+```
