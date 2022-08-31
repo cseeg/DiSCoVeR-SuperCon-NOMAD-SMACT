@@ -1,6 +1,6 @@
 # DiSCoVeR-SuperCon-NOMAD-SMACT
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D7x_wUvPZyEC67K3ta84kOqEtBmwzHUt#scrollTo=cZMqBI4X3xq6)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cseeg/DiSCoVeR-SuperCon-NOMAD-SMACT/blob/main/main.ipynb)
 
 * this code uses the `DiSCoVeR` algorithm (Descending from Stochastic Clustering Variance Regression) ([[software](https://github.com/sparks-baird/mat_discover)], [[paper](https://dx.doi.org/10.1039/D1DD00028D)]) to predict chemically novel, high-temperature superconductors. The model trains on the [`SuperCon`](https://github.com/vstanev1/Supercon) data set and predicts through chunks of [a curated dataset snapshot](https://figshare.com/articles/dataset/NOMAD_Chemical_Formulas_and_Calculation_IDs/19319783) based on the `NOMAD` ([Novel Materials Discovery](https://nomad-lab.eu/)) database. A chemical validity label is assigned to each composition through [a modified version](https://github.com/txie-93/cdvae/blob/51383a9bf6477db01fb66b341ff75b5bad33ca90/scripts/eval_utils.py#L121-L162) of [`SMACT`](https://github.com/WMD-group/SMACT) (semiconducting materials by analogy and chemical theory) ported from [CDVAE](https://github.com/txie-93/cdvae).
 
