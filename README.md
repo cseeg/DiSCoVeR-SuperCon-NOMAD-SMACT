@@ -6,6 +6,8 @@
 
 * `dens_score.csv` and `peak_score.csv` are the expected output files after running `main.ipynb`. These contain a weighted score involving superconductor performance (maximize superconducting critical temperature) and chemical novelty, where chemical novelty is defined either using a density-based proxy or a peak-based proxy. These files are reduced to 100,000 formulas due to size.
 
+* In the post processing file, `final_comps_withhighlights.csv` and `final_comps_nohighlights.csv` are similar to 'final.csv' but after considering the conditional thresholds defined in the paper (`is_valid== TRUE & predicted_e_above_hull <= 0.1 & is_theoretical >= 0.95`).
+
 Below is a flowchart that depicts the workflow:
 ![flowchart](https://i.imgur.com/7Y6ifJg.png "flowchart")
 
