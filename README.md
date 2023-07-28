@@ -11,6 +11,12 @@
 Below is a flowchart that depicts the workflow:
 ![flowchart](https://i.imgur.com/7Y6ifJg.png "flowchart")
 
+## Reproducibility
+To reproduce results:
+* Download the csv from [here](https://github.com/vstanev1/Supercon), rename it to `supercon.csv`, and add to directory
+* Download `NOMAD-unique-reduced-formula.csv` from [here](https://figshare.com/articles/dataset/NOMAD_Chemical_Formulas_and_Calculation_IDs/19319783) and add to directory
+* Excecute code in `main.ipynb`
+
 ## Citations
 If you find this work useful, please consider citing the following works.
 
