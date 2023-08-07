@@ -15,6 +15,7 @@ Below is a flowchart that depicts the workflow:
 
 ## Reproducibility
 *  `environment.yaml` is the file for the trained model that can be used
+
 To reproduce results:
 * Download the csv from [here](https://github.com/vstanev1/Supercon), rename it to `supercon.csv`, and add to directory
 * Download `NOMAD-unique-reduced-formula.csv` from [here](https://figshare.com/articles/dataset/NOMAD_Chemical_Formulas_and_Calculation_IDs/19319783) and add to directory
